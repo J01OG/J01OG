@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/J01OG/J01OG/assets/100211181/771ac1e4-96c8-4335-b59e-c2637cfdc19f)
 
 <!--
 **J01OG/J01OG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
